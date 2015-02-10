@@ -1,2 +1,27 @@
-/ 100
+40 / 100
+
++15:
+    Incomplete test of optional file parameters.
+    Does not test the case in which the file exists.
+
++25:
+    -a flag is tested
+
++25:
+    -l flag is tested
+
+-5:
+    No test of -lR
+
+-5:
+    No test of -aR
+
+-5:
+    No test of -alR
+
+-5:
+    No test of the -R flag
+
+-5:
+    No test of the order of parameters
 
