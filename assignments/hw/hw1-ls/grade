@@ -1,6 +1,6 @@
-40 / 100
+ 40   / 100  
 
-+15:
+    +15:
     Incomplete test of optional file parameters.
     Does not test the case in which the file exists.
 
