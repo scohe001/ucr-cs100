@@ -1,4 +1,4 @@
- 40   / 100  
+ 95   / 100  
 
     +15:
     Incomplete test of optional file parameters.
@@ -24,4 +24,7 @@
 
 -5:
     No test of the order of parameters
+
++55:
+    grade adjustment during office hours
 
